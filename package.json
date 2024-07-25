@@ -1,0 +1,13 @@
+{
+    "name": "msrp-auth",
+    "version": "1.0.0",
+    "description": "MSRP authentication over WebSocket",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "crypto-js": "^4.2.0",
+        "ws": "^8.18.0"
+    }
+}
